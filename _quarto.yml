@@ -13,6 +13,8 @@ website:
         text: Home
       - href: publication.qmd
         text: Publication
+      - href: japanese.qmd
+        text: Japanese (日本語)
 
 format:
   html:
