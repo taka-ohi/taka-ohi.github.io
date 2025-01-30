@@ -13,13 +13,18 @@ website:
         href: index.qmd
       - text: "Publication"
         href: publication.qmd
-    right:
-      - href: index.qmd
-        text: "English"
-        icon: globe
-      - href: index_jp.qmd
-        text: "日本語"
-        icon: globe
+      - text: "Japanese (日本語)"
+        menu:
+          - text: "自己紹介"
+            href: index_jp.qmd
+          - publication_jp.qmd
+    # right:
+    #   - href: index.qmd
+    #     text: "English"
+    #     icon: globe
+    #   - href: index_jp.qmd
+    #     text: "日本語"
+    #     icon: globe
     page-navigation: true
   page-footer: 
     right: "Copyright 2025, Takamitsu Ohigashi"
