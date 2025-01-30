@@ -6,6 +6,8 @@ title: "Takamitsu OHIGASHI, 大東孝充"
 <img src="profile_pic2.jpg" width="300"/>
 :::
 
+<br>
+
 ## Profile
 
 Postdoctoral researcher working at the <a href="https://ecological-integration.studio.site/" target="_blank">Kondoh Lab</a> in Tohoku University, Japan.\
