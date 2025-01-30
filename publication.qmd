@@ -1,5 +1,8 @@
 ---
-title: ""
+title: "Publication"
+format:
+  html: 
+    css: my-custom-style.css
 ---
 
 # Research Papers

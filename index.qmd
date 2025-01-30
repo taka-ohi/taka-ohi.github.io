@@ -2,7 +2,9 @@
 title: "Takamitsu OHIGASHI, 大東孝充"
 ---
 
-<img src="profile_pic2.jpg" width="300"/>
+<div style="text-align: center;">
+  <img src="profile_pic2.jpg" width="300"/>
+</div>
 
 ## Profile
 
