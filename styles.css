@@ -4,3 +4,7 @@ h1.title {
     text-align: center;
 }
 
+.navbar-nav.ms-auto .nav-link {
+    font-size: 0.80rem;  /* adjust the langage option to X% size */
+    font-weight: normal;
+}

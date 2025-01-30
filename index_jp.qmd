@@ -1,0 +1,32 @@
+---
+title: "大東 孝充"
+---
+
+::: {style="text-align: center;"}
+<img src="img/profile_pic2.jpg" width="300"/>
+:::
+
+<br>
+
+## プロフィール
+
+東北大学生命科学研究科 <a href="https://ecological-integration.studio.site/" target="_blank">統合生態分野（近藤研）</a> に所属し、特任研究員（学振PD）をしています。\
+現在は香港科技大学海洋科学科 <a href="https://ong8181.github.io/ushio-ecolab/" target="_blank">潮研</a> に滞在し研究しています。
+
+<a href="https://x.com/soilandohi" target="_blank" style="text-decoration: none;"> <img src="img/logo-black.png" width="30"/> </a> <a href="https://github.com/taka-ohi" target="_blank" style="text-decoration: none;"> <img src="img/github-mark.svg" width="30"/> </a> <a href="https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> <img src="img/google-scholar.svg" width="30"/> </a>
+
+メール: tkmtohgs1031 at gmail.com
+
+## 研究キーワード
+
+土壌微生物群集, 環境DNA, 群集生態学, 時系列解析
+
+## 経歴
+
+-   1996年 大阪府生まれ兵庫県西宮市育ち
+-   2015 \~ 2019年 北海道大学農学部
+-   2019 \~ 2021年 修士課程, 北海道大学国際食資源学院
+-   2021 \~ 2024年 修士課程, 北海道大学国際食資源学院
+-   2024年 博士（食資源学）, 北海道大学
+-   2024年 \~ 現在 日本学術振興会特別研究員PD（近藤研）
+

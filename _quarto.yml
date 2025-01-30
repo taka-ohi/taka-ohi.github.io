@@ -9,12 +9,18 @@ website:
     background: dark
     foreground: light
     left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publication"
+        href: publication.qmd
+    right:
       - href: index.qmd
-        text: Home
-      - href: publication.qmd
-        text: Publication
-      - href: japanese.qmd
-        text: Japanese (日本語)
+        text: "English"
+        icon: globe
+      - href: index_jp.qmd
+        text: "日本語"
+        icon: globe
+    page-navigation: true
 
 format:
   html:
