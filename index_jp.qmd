@@ -1,5 +1,14 @@
 ---
 title: "大東 孝充"
+navbar:
+    background: dark
+    foreground: light
+    title: "大東孝充"
+    left:
+      - text: "ホーム"
+        href: index_jp.qmd
+      - text: "出版物"
+        href: publication_jp.qmd
 ---
 
 ::: {style="text-align: center;"}
