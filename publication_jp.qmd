@@ -5,7 +5,7 @@ format:
     css: my-custom-style.css
 ---
 
-# 原著論文
+# 研究論文
 
 ## プレプリント
 

@@ -17,7 +17,8 @@ website:
         menu:
           - text: "自己紹介"
             href: index_jp.qmd
-          - publication_jp.qmd
+          - text: "論文など"
+            href: publication_jp.qmd
   # right:
   #   - href: index.qmd
   #     text: "English"
