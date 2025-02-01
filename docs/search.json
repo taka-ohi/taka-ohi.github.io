@@ -123,7 +123,7 @@
     "href": "link_jp.html#データ解析",
     "title": "生態学・執筆関係リンク集",
     "section": "データ解析",
-    "text": "データ解析\n\n統計\n\n実験計画の立て方とRを用いた分散分析：実験計画に応じた分散分析の実行 (水口, 2011)\n生態学のデータ解析 - 統計学授業 2019 (久保先生のサイト)\nLogics of Blue\n\n\n\n生物群集（多変量）解析\n\n生物群集解析のための類似度とその応用：Rを使った類似度の算出、グラフ化、検定 (土居ら, 2011)\n【書籍】Rによる数値生態学 (Borcardら 著; 吉原ら訳, 2023)\n\n\n\nネットワーク解析\n\nRとigraphを使ったネットワーク解析と可視化 (Ognyanova 著; 田村&根本 訳)\n【書籍】DNA情報で生態系を読み解く (東樹, 2016)\n\n\n\nEmpirical Dynamic Modelling\n\nrEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成 (香港科技大学・潮先生のブログ)\n\n\n\n可視化\n\nThe R Graph Gallery"
+    "text": "データ解析\n\n統計\n\n実験計画の立て方とRを用いた分散分析：実験計画に応じた分散分析の実行 (水口, 2011)\n生態学のデータ解析 - 統計学授業 2019 (久保先生のサイト)\nLogics of Blue\n\n\n\n生物群集（多変量）解析\n\n生物群集解析のための類似度とその応用：Rを使った類似度の算出、グラフ化、検定 (土居ら, 2011)\n【書籍】Rによる数値生態学 (Borcardら 著; 吉原ら訳, 2023)\n\n\n\nネットワーク解析\n\nRとigraphを使ったネットワーク解析と可視化 (Ognyanova 著; 田村&根本 訳)\n【書籍】DNA情報で生態系を読み解く (東樹, 2016)\n\n\n\nEmpirical Dynamic Modelling\n\nrEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成 (香港科技大学・潮先生のブログ)\n\n\n\n再現可能な解析をする\n\n解析するときのルールあれこれ (香港科技大学・潮先生のブログ)\n\n\n\n可視化\n\nThe R Graph Gallery"
   },
   {
     "objectID": "link_jp.html#実験",

@@ -54,6 +54,10 @@ format:
 
 -   rEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成<a href="https://ushio-ecology-blog.blogspot.com/2019/12/20191205blogger0004.html" target="_blank"> (香港科技大学・潮先生のブログ)</a>
 
+#### 再現可能な解析をする
+
+-   解析するときのルールあれこれ<a href="https://ushio-ecology-blog.blogspot.com/2020/05/20200507blogger0012.html" target="_blank"> (香港科技大学・潮先生のブログ)</a>
+
 #### 可視化
 
 -   <a href="https://r-graph-gallery.com/" target="_blank">The R Graph Gallery</a>
