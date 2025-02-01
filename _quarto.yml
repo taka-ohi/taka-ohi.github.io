@@ -19,6 +19,8 @@ website:
             href: index_jp.qmd
           - text: "論文など"
             href: publication_jp.qmd
+          - text: "リンク集"
+            href: link_jp.qmd
   # right:
   #   - href: index.qmd
   #     text: "English"

@@ -110,5 +110,33 @@
     "title": "出版物",
     "section": "",
     "text": "Ohigashi, T.*, Mori, S., Tago, K., Ohbayashi, T., Hara, S. & Uchida, Y. (in press)\n“Differential responses of soil ammonia-oxidizing bacterial and archaeal communities to land-use change in Zambia”Microbes and Environments\n\n\n\n\n\nSoe, N. C., Yohannes, Y. B., Ohigashi, T., Nakata, H., Tatsumi, C., Uchida, Y., Mufalo, W., Ito, M., Sato, T., Igarashi, T., Ikenaka, Y., Ishizuka, M., & Nakayama, S. M. M.* (2024)\n“Effect of chicken manure amendment on lead burden in mice: Exposure to lead-spiked soil” Journal of Soils and Sediments, 24, 2001–2011\n\n\n\n\n\nOhigashi, T., Schloter, M., Schulz, S., Munthali, K., & Uchida, Y.* (2021)\n“Changes in soil prokaryotic diversity in response to land-use changes in sub-Saharan Africa” Soil Systems, 5(4), 62"
+  },
+  {
+    "objectID": "link_jp.html#理論",
+    "href": "link_jp.html#理論",
+    "title": "生態学・論文執筆などリンク集",
+    "section": "理論",
+    "text": "理論\n\n生態学の用語など\n\n基礎生態学 (北海道大学・露崎先生のサイト)\n【書籍】生態学入門・第２版 (日本生態学会, 2012)\n\n群集生態学\n\n群集生態学における共存理論の現代的統合 (篠原ら, 2021)\n細菌群集の時空間分布と物質循環をつなぐ：細菌とメタ群集理論 (三木, 2007)\n【書籍】ミッテルバッハ・マギル群集生態学 (Mittelbach & McGill 著; 門脇ら 訳, 2023)\n\n系統樹\n\n分子系統解析の最前線 (松井, 2021)"
+  },
+  {
+    "objectID": "link_jp.html#データ解析",
+    "href": "link_jp.html#データ解析",
+    "title": "生態学・論文執筆などリンク集",
+    "section": "データ解析",
+    "text": "データ解析\n\n統計\n\n実験計画の立て方とRを用いた分散分析：実験計画に応じた分散分析の実行 (水口, 2011)\n生態学のデータ解析 - 統計学授業 2019 (久保先生のサイト)\nLogics of Blue\n\n生物群集（多変量）解析\n\n生物群集解析のための類似度とその応用：Rを使った類似度の算出、グラフ化、検定 (土居ら, 2011)\n【書籍】Rによる数値生態学 (Borcardら 著; 吉原ら訳, 2023)\n\nネットワーク解析\n\nRとigraphを使ったネットワーク解析と可視化 (Ognyanova 著; 田村&根本 訳)\n【書籍】DNA情報で生態系を読み解く (東樹, 2016)\n\nEmpirical Dynamic Modelling\n\nrEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成 (香港科技大学・潮先生のブログ)\n\n可視化\n\nThe R Graph Gallery"
+  },
+  {
+    "objectID": "link_jp.html#実験",
+    "href": "link_jp.html#実験",
+    "title": "生態学・論文執筆などリンク集",
+    "section": "実験",
+    "text": "実験\n\nフィールド研究の実験手法\n\n生態系科学　手法動画ポータル"
+  },
+  {
+    "objectID": "link_jp.html",
+    "href": "link_jp.html",
+    "title": "生態学・論文執筆などリンク集",
+    "section": "",
+    "text": "自分の役に立ったウェブサイトと書籍をまとめています（工事中）。"
   }
 ]
