@@ -114,29 +114,64 @@
   {
     "objectID": "link_jp.html#理論",
     "href": "link_jp.html#理論",
-    "title": "生態学・論文執筆などリンク集",
+    "title": "生態学・執筆関係リンク集",
     "section": "理論",
-    "text": "理論\n\n生態学の用語など\n\n基礎生態学 (北海道大学・露崎先生のサイト)\n【書籍】生態学入門・第２版 (日本生態学会, 2012)\n\n群集生態学\n\n群集生態学における共存理論の現代的統合 (篠原ら, 2021)\n細菌群集の時空間分布と物質循環をつなぐ：細菌とメタ群集理論 (三木, 2007)\n【書籍】ミッテルバッハ・マギル群集生態学 (Mittelbach & McGill 著; 門脇ら 訳, 2023)\n\n系統樹\n\n分子系統解析の最前線 (松井, 2021)"
+    "text": "理論\n\n生態学の用語など\n\n基礎生態学 (北海道大学・露崎先生のサイト)\n【書籍】生態学入門・第２版 (日本生態学会, 2012)\n\n\n\n群集生態学\n\n群集生態学における共存理論の現代的統合 (篠原ら, 2021)\n細菌群集の時空間分布と物質循環をつなぐ：細菌とメタ群集理論 (三木, 2007)\n【書籍】ミッテルバッハ・マギル群集生態学 (Mittelbach & McGill 著; 門脇ら 訳, 2023)\n\n\n\n系統樹\n\n分子系統解析の最前線 (松井, 2021)"
   },
   {
     "objectID": "link_jp.html#データ解析",
     "href": "link_jp.html#データ解析",
-    "title": "生態学・論文執筆などリンク集",
+    "title": "生態学・執筆関係リンク集",
     "section": "データ解析",
-    "text": "データ解析\n\n統計\n\n実験計画の立て方とRを用いた分散分析：実験計画に応じた分散分析の実行 (水口, 2011)\n生態学のデータ解析 - 統計学授業 2019 (久保先生のサイト)\nLogics of Blue\n\n生物群集（多変量）解析\n\n生物群集解析のための類似度とその応用：Rを使った類似度の算出、グラフ化、検定 (土居ら, 2011)\n【書籍】Rによる数値生態学 (Borcardら 著; 吉原ら訳, 2023)\n\nネットワーク解析\n\nRとigraphを使ったネットワーク解析と可視化 (Ognyanova 著; 田村&根本 訳)\n【書籍】DNA情報で生態系を読み解く (東樹, 2016)\n\nEmpirical Dynamic Modelling\n\nrEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成 (香港科技大学・潮先生のブログ)\n\n可視化\n\nThe R Graph Gallery"
+    "text": "データ解析\n\n統計\n\n実験計画の立て方とRを用いた分散分析：実験計画に応じた分散分析の実行 (水口, 2011)\n生態学のデータ解析 - 統計学授業 2019 (久保先生のサイト)\nLogics of Blue\n\n\n\n生物群集（多変量）解析\n\n生物群集解析のための類似度とその応用：Rを使った類似度の算出、グラフ化、検定 (土居ら, 2011)\n【書籍】Rによる数値生態学 (Borcardら 著; 吉原ら訳, 2023)\n\n\n\nネットワーク解析\n\nRとigraphを使ったネットワーク解析と可視化 (Ognyanova 著; 田村&根本 訳)\n【書籍】DNA情報で生態系を読み解く (東樹, 2016)\n\n\n\nEmpirical Dynamic Modelling\n\nrEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成 (香港科技大学・潮先生のブログ)\n\n\n\n可視化\n\nThe R Graph Gallery"
   },
   {
     "objectID": "link_jp.html#実験",
     "href": "link_jp.html#実験",
-    "title": "生態学・論文執筆などリンク集",
+    "title": "生態学・執筆関係リンク集",
     "section": "実験",
     "text": "実験\n\nフィールド研究の実験手法\n\n生態系科学　手法動画ポータル"
   },
   {
     "objectID": "link_jp.html",
     "href": "link_jp.html",
-    "title": "生態学・論文執筆などリンク集",
+    "title": "生態学・執筆関係リンク集",
     "section": "",
-    "text": "自分の役に立ったウェブサイトと書籍をまとめています（工事中）。"
+    "text": "役に立ったウェブサイトや書籍など"
+  },
+  {
+    "objectID": "link_jp.html#論文",
+    "href": "link_jp.html#論文",
+    "title": "生態学・執筆関係リンク集",
+    "section": "論文",
+    "text": "論文\n\n論文の構成や書き方\n\nThe British Ecological Society Short Guide to Scientific Writing\n【書籍】まったく新しいアカデミック・ライティングの教科書 (阿部, 2024)\n【書籍】できる研究者の論文生産術 (シルヴィア 著; 高橋 訳, 2015)\n\n\n\n各科学雑誌出版機関のプレプリントに対するポリシー\n\nList of academic publishers by preprint policy"
+  },
+  {
+    "objectID": "link_jp.html#申請者",
+    "href": "link_jp.html#申請者",
+    "title": "生態学・執筆などリンク集",
+    "section": "申請者",
+    "text": "申請者\n\n学振申請書\n\n論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント (minoblog)"
+  },
+  {
+    "objectID": "link_jp.html#申請書",
+    "href": "link_jp.html#申請書",
+    "title": "生態学・執筆関係リンク集",
+    "section": "申請書",
+    "text": "申請書\n\n学振申請書（※年度ごとの仕様の変更に注意）\n\n論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント (minoblog)\n学振特別研究員になるために (東京科学大学・大上先生のスライド)\n学振申請書を書く心得 (拙スライド)"
+  },
+  {
+    "objectID": "link_jp.html#各雑誌のプレプリントに対する対応",
+    "href": "link_jp.html#各雑誌のプレプリントに対する対応",
+    "title": "生態学・執筆などリンク集",
+    "section": "#### 各雑誌のプレプリントに対する対応",
+    "text": "#### 各雑誌のプレプリントに対する対応"
+  },
+  {
+    "objectID": "link_jp.html#全般",
+    "href": "link_jp.html#全般",
+    "title": "生態学・執筆関係リンク集",
+    "section": "全般",
+    "text": "全般\n\n文章の書き方\n\n技術を伝えるときの執筆の方針 (Logics of Blue)\n\n\n\n雑誌名の略称の検索\n\nScience and Engineering Journal Abbreviations\n\n\n\n知的生産について\n\n【書籍】イシューからはじめよ (安宅, 2010)"
   }
 ]
