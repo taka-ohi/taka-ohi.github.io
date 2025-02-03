@@ -43,7 +43,7 @@ format:
 #### アンプリコンシークエンスデータ解析
 
 -   <a href="https://benjjneb.github.io/dada2/ITS_workflow.html" target="_blank">DADA2 ITS Pipeline Workflow (1.8)</a>
--   phyloseq による DADA2 処理後の統計解析 <a href="https://benjjneb.github.io/dada2/ITS_workflow.html" target="_blank">(Ushio's blog)</a>
+-   phyloseq による DADA2 処理後の統計解析 <a href="https://ushio-ecology-blog.blogspot.com/2021/04/20210428blogger0015.html?spref=tw" target="_blank">(Ushio's blog)</a>
 
 #### 生物群集（多変量）解析
 
