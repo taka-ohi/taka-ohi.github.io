@@ -6,7 +6,7 @@ format:
 ---
 
 ::: {style="text-align: center;"}
-役に立ったウェブサイトや書籍など
+これまでに参考にしたウェブサイトや書籍など
 :::
 
 <br>
@@ -40,6 +40,11 @@ format:
 -   生態学のデータ解析 - 統計学授業 2019 <a href="https://kuboweb.github.io/-kubo/ce/EesLecture2019.html" target="_blank">(久保先生のサイト)</a>
 -   <a href="https://logics-of-blue.com/" target="_blank">Logics of Blue</a>
 
+#### アンプリコンシークエンスデータ解析
+
+-   <a href="https://benjjneb.github.io/dada2/ITS_workflow.html" target="_blank">DADA2 ITS Pipeline Workflow (1.8)</a>
+-   phyloseq による DADA2 処理後の統計解析 <a href="https://benjjneb.github.io/dada2/ITS_workflow.html" target="_blank">(Ushio's blog)</a>
+
 #### 生物群集（多変量）解析
 
 -   生物群集解析のための類似度とその応用：Rを使った類似度の算出、グラフ化、検定 <a href="https://www.jstage.jst.go.jp/article/seitai/61/1/61_KJ00007176266/_article/-char/ja/" target="_blank">(土居ら, 2011)</a>
@@ -47,16 +52,16 @@ format:
 
 #### ネットワーク解析
 
--   Rとigraphを使ったネットワーク解析と可視化<a href="https://www.nemotos.net/igraph-tutorial/NetSciX_2016_Workshop_ja.html" target="_blank"> (Ognyanova 著; 田村&根本 訳)</a>
+-   Rとigraphを使ったネットワーク解析と可視化 <a href="https://www.nemotos.net/igraph-tutorial/NetSciX_2016_Workshop_ja.html" target="_blank">(Ognyanova 著; 田村&根本 訳)</a>
 -   【書籍】DNA情報で生態系を読み解く (東樹, 2016)
 
 #### Empirical Dynamic Modelling
 
--   rEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成<a href="https://ushio-ecology-blog.blogspot.com/2019/12/20191205blogger0004.html" target="_blank"> (香港科技大学・潮先生のブログ)</a>
+-   rEDM を用いた Empirical Dynamic Modeling: (1) 動態の再構成 <a href="https://ushio-ecology-blog.blogspot.com/2019/12/20191205blogger0004.html" target="_blank">(Ushio's blog)</a>
 
 #### 再現可能な解析をする
 
--   解析するときのルールあれこれ<a href="https://ushio-ecology-blog.blogspot.com/2020/05/20200507blogger0012.html" target="_blank"> (香港科技大学・潮先生のブログ)</a>
+-   解析するときのルールあれこれ <a href="https://ushio-ecology-blog.blogspot.com/2020/05/20200507blogger0012.html" target="_blank">(Ushio's blog)</a>
 
 #### 可視化
 
@@ -92,9 +97,9 @@ format:
 
 #### 学振申請書（※年度ごとの仕様の変更に注意）
 
--   論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント<a href="https://ocoshite.me/how-to-get-gakushin-dc1" target="_blank"> (minoblog)</a>
--   学振特別研究員になるために<a href="http://www.rpd.titech.ac.jp/jsps_tokken/ohue2023-1_3.pdf" target="_blank"> (東京科学大学・大上先生のスライド)</a>
--   学振申請書を書く心得<a href="https://docs.google.com/presentation/d/e/2PACX-1vS75s7h_GwsQnwG5Hq6DRfqkXVUEtJ4V1uzVCX0M0fAO64IGFDeCZHDd8B2lpi8L8Q3fdaXvFZlOsq4/pub?start=false&loop=false&delayms=3000" target="_blank"> (拙スライド)</a>
+-   論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント <a href="https://ocoshite.me/how-to-get-gakushin-dc1" target="_blank">(minoblog)</a>
+-   学振特別研究員になるために <a href="http://www.rpd.titech.ac.jp/jsps_tokken/ohue2023-1_3.pdf" target="_blank">(東京科学大学・大上先生のスライド)</a>
+-   学振申請書を書く心得 <a href="https://docs.google.com/presentation/d/e/2PACX-1vS75s7h_GwsQnwG5Hq6DRfqkXVUEtJ4V1uzVCX0M0fAO64IGFDeCZHDd8B2lpi8L8Q3fdaXvFZlOsq4/pub?start=false&loop=false&delayms=3000" target="_blank">(拙スライド)</a>
 
 <br>
 
@@ -102,7 +107,7 @@ format:
 
 #### 文章の書き方
 
--   技術を伝えるときの執筆の方針<a href="https://logics-of-blue.com/writing-policy-when-conveying-technology/" target="_blank"> (Logics of Blue)</a>
+-   技術を伝えるときの執筆の方針 <a href="https://logics-of-blue.com/writing-policy-when-conveying-technology/" target="_blank">(Logics of Blue)</a>
 
 #### 雑誌名の略称の検索
 
