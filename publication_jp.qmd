@@ -9,6 +9,9 @@ format:
 
 ## プレプリント
 
+-   **Ohigashi, T.**\*, Madegwa, Y.M., Karuku, G.N., Njira, K. & Uchida, Y.\
+    "Agricultural land use induces broader homogenization of soil microbial functional composition than taxonomic composition"<a href="https://doi.org/10.1101/2025.02.17.638669" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/bioRxiv-Preprint-red.svg"/> </a>
+
 -   Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J.P. & Zhang, X.\
     "Global role of vanadium for nitrogen fixation in extratropical forests"<a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank"><br>*Authorea*</a>
 
