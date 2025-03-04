@@ -13,7 +13,7 @@ title: "Takamitsu OHIGASHI"
 Postdoctoral researcher working at the <a href="https://ecological-integration.studio.site/" target="_blank">Kondoh Lab</a> in Tohoku University, Japan.\
 Currently, I'm studying at the <a href="https://ong8181.github.io/ushio-ecolab/" target="_blank">Ushio Lab</a> in Hong Kong University of Science and Technology.
 
-<a href="https://x.com/soilandohi" target="_blank" style="text-decoration: none;"> <img src="img/logo-black.png" width="30"/> </a> <a href="https://github.com/taka-ohi" target="_blank" style="text-decoration: none;"> <img src="img/github-mark.svg" width="30"/> </a> <a href="https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> <img src="img/google-scholar.svg" width="30"/> </a>
+<a href="https://x.com/soilandohi" target="_blank" style="text-decoration: none;"> <img src="img/logo-black.png" width="30"/> </a> <a href="https://bsky.app/profile/taka-ohi.bsky.social" target="_blank" style="text-decoration: none;"> <img src="img/Bluesky_Logo.svg.png" width="30"/> </a> <a href="https://github.com/taka-ohi" target="_blank" style="text-decoration: none;"> <img src="img/github-mark.svg" width="30"/> </a> <a href="https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> <img src="img/google-scholar.svg" width="30"/> </a>
 
 Email: tkmtohgs1031 at gmail.com
 

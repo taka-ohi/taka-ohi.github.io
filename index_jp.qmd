@@ -13,7 +13,7 @@ title: "大東 孝充"
 東北大学生命科学研究科 <a href="https://ecological-integration.studio.site/" target="_blank">統合生態分野（近藤研）</a> に所属し、特任研究員（学振PD）をしています。\
 現在は香港科技大学海洋科学科 <a href="https://ong8181.github.io/ushio-ecolab/" target="_blank">潮研</a> に滞在し研究しています。
 
-<a href="https://x.com/soilandohi" target="_blank" style="text-decoration: none;"> <img src="img/logo-black.png" width="30"/> </a> <a href="https://github.com/taka-ohi" target="_blank" style="text-decoration: none;"> <img src="img/github-mark.svg" width="30"/> </a> <a href="https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> <img src="img/google-scholar.svg" width="30"/> </a>
+<a href="https://x.com/soilandohi" target="_blank" style="text-decoration: none;"> <img src="img/logo-black.png" width="30"/> </a> <a href="https://bsky.app/profile/taka-ohi.bsky.social" target="_blank" style="text-decoration: none;"> <img src="img/Bluesky_Logo.svg.png" width="30"/> </a> <a href="https://github.com/taka-ohi" target="_blank" style="text-decoration: none;"> <img src="img/github-mark.svg" width="30"/> </a> <a href="https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> <img src="img/google-scholar.svg" width="30"/> </a>
 
 メール: tkmtohgs1031 at gmail.com
 
