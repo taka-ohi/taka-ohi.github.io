@@ -18,7 +18,7 @@
     "href": "index.html#biography",
     "title": "Takamitsu OHIGASHI",
     "section": "Biography",
-    "text": "Biography\n\n1996: Born in Osaka and grew up in Nishinomiya, Hyogo, Japan\n2015 ~ 2019: Faculty of Agriculture, Hokkaido University\n2019 ~ 2021: Master course, Graduate School of Global Food Resources, Hokkaido University\n2021 ~ 2024: Ph.D. course, Graduate School of Global Food Resources, Hokkaido University\n2024: Ph.D. (Food Resources), Hokkaido University\n2024 ~ present: JSPS Research Fellow (PD) at Tohoku University (Kondoh Lab)"
+    "text": "Biography\n\n1996: Born in Osaka and grew up in Nishinomiya, Hyogo, Japan\n2015 ~ 2019: Faculty of Agriculture, Hokkaido University\n2019 ~ 2021: Master course, Graduate School of Global Food Resources, Hokkaido University\n2021 ~ 2024: Ph.D. course, Graduate School of Global Food Resources, Hokkaido University\n2022: Visiting Scholar, The University of Minnesota\n2024: Ph.D. (Food Resources), Hokkaido University\n2024 ~ present: JSPS Research Fellow (PD) at Tohoku University (Kondoh Lab)"
   },
   {
     "objectID": "publication.html",
@@ -88,7 +88,7 @@
     "href": "index_jp.html#経歴",
     "title": "大東 孝充",
     "section": "経歴",
-    "text": "経歴\n\n1996年: 大阪府生まれ兵庫県西宮市育ち\n2015 ~ 2019年: 北海道大学農学部\n2019 ~ 2021年: 修士課程, 北海道大学国際食資源学院\n2021 ~ 2024年: 博士課程, 北海道大学国際食資源学院\n2024年: 博士号（食資源学）取得, 北海道大学\n2024年 ~ 現在: 日本学術振興会特別研究員PD（近藤研）"
+    "text": "経歴\n\n1996年: 大阪府生まれ兵庫県西宮市育ち\n2015 ~ 2019年: 北海道大学農学部\n2019 ~ 2021年: 修士課程, 北海道大学国際食資源学院\n2021 ~ 2024年: 博士課程, 北海道大学国際食資源学院\n2022年: 学術研究員, ミネソタ大学\n2024年: 博士号（食資源学）取得, 北海道大学\n2024年 ~ 現在: 日本学術振興会特別研究員PD（近藤研）"
   },
   {
     "objectID": "publication_jp.html",
@@ -173,5 +173,33 @@
     "title": "生態学・執筆関係リンク集",
     "section": "全般",
     "text": "全般\n\n文章の書き方\n\n技術を伝えるときの執筆の方針 (Logics of Blue)\n\n\n\n雑誌名の略称の検索\n\nScience and Engineering Journal Abbreviations\n\n\n\n知的生産について\n\n【書籍】イシューからはじめよ (安宅, 2010)"
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Takamitsu OHIGASHI",
+    "section": "Awards",
+    "text": "Awards\n\nExcellent Poster Award (PhD student division), The 36th Annual Meeting of Japanese Society for Microbial Ecology & The 13th Asian Symposium on Microbial Ecology, Hamamatsu, Japan, November 2023\nEnglish Presentation Audience Award, The 68th Annual Meeting of Ecological Society of Japan, Okayama, Japan, March 2021"
+  },
+  {
+    "objectID": "index_jp.html#受賞歴",
+    "href": "index_jp.html#受賞歴",
+    "title": "大東 孝充",
+    "section": "受賞歴",
+    "text": "受賞歴\n\n優秀ポスター賞 (博士学生部門), 第36回微生物生態学会・第13回アジア微生物生態学会, 浜松, 2023年11月\n英語口頭発表聴衆特別賞, 第68回日本生態学会, 岡山, 2021年3月"
+  },
+  {
+    "objectID": "index.html#fundingfellowship",
+    "href": "index.html#fundingfellowship",
+    "title": "Takamitsu OHIGASHI",
+    "section": "Funding/Fellowship",
+    "text": "Funding/Fellowship\n\n2021 ~ 2024: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research\n2024 ~ present: Grant-in-Aid for JSPS Fellows"
+  },
+  {
+    "objectID": "index_jp.html#獲得資金フェローシップ",
+    "href": "index_jp.html#獲得資金フェローシップ",
+    "title": "大東 孝充",
+    "section": "獲得資金・フェローシップ",
+    "text": "獲得資金・フェローシップ\n\n2021 ~ 2024: 北大・日立協働教育研究支援プログラム\n2024 ~ present: 日本学術振興会特別研究員奨励費"
   }
 ]
