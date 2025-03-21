@@ -27,7 +27,7 @@ format:
 ### 2024
 
 2.  Soe, N. C., Yohannes, Y. B., **Ohigashi, T.**, Nakata, H., Tatsumi, C., Uchida, Y., Mufalo, W., Ito, M., Sato, T., Igarashi, T., Ikenaka, Y., Ishizuka, M., & Nakayama, S. M. M.\* (2024)\
-    "Effect of chicken manure amendment on lead burden in mice: Exposure to lead-spiked soil" <a href="https://doi.org/10.1007/s11368-024-03769-y" target="_blank"><br>*Journal of Soils and Sediments*, 24, 2001–2011</a>
+    "Effect of chicken manure amendment on lead burden in mice: Exposure to lead-spiked soil" <a href="https://doi.org/10.1007/s11368-024-03769-y" target="_blank"><br>*Journal of Soils and Sediments*, 24(5), 2001–2011</a>
 
 ### 2021
 
