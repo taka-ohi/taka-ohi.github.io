@@ -22,7 +22,7 @@ format:
 ### 2025
 
 3.  **Ohigashi, T.**\*, Mori, S., Tago, K., Ohbayashi, T., Hara, S. & Uchida, Y. (2025)\
-    "Differential responses of soil ammonia-oxidizing bacterial and archaeal communities to land-use change in Zambia" <a href="https://doi.org/10.1264/jsme2.ME24049" target="_blank"><br>*Microbes and Environments*, 40:ME24049</a>
+    "Differential responses of soil ammonia-oxidizing bacterial and archaeal communities to land-use changes in Zambia" <a href="https://doi.org/10.1264/jsme2.ME24049" target="_blank"><br>*Microbes and Environments*, 40(1), ME24049</a>
 
 ### 2024
 
