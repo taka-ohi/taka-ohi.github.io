@@ -5,31 +5,43 @@ format:
     css: my-custom-style.css
 ---
 
-# 研究論文
+<h1>研究論文</h1>
 
-## プレプリント
+<h2>プレプリント</h2>
+<ul>
 
--   **Ohigashi, T.**\*, Madegwa, Y. M., Karuku, G. N., Njira, K. & Uchida, Y.\
-    "Agricultural land use induces broader homogenization of soil microbial functional composition than taxonomic composition"<a href="https://doi.org/10.1101/2025.02.17.638669" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg"/> </a>
-
--   Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J. P. & Zhang, X.\
+<li>Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J. P. & Zhang, X.\
     "Global role of vanadium for nitrogen fixation in extratropical forests"<a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank"><br>*Authorea*</a>
+</li>
+</ul>
 
 <br>
 
-## 出版/受理済
+<h2>出版/受理済</h2>
+<ol reversed>
+<h3>2025</h3>
 
-### 2025
+<li>**Ohigashi, T.**\*, Madegwa, Y. M., Karuku, G. N., Njira, K. & Uchida, Y. (*in press*)\
+"Agricultural land use induces broader homogenization of soil microbial functional composition than taxonomic composition in sub-Saharan Africa"<a href="https://doi.org/10.1016/j.soilbio.2025.109895" target="_blank"><br>*Soil Biology and Biochemistry*, 209, 109895</a><a href="https://doi.org/10.1101/2025.02.17.638669" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg"/></a> <a href="https://github.com/taka-ohi/KenyaMalawi_microbiome" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Code-GitHub-blueviolet.svg"/></a>
+</li>
+<br>
+<li>**Ohigashi, T.**\*, Mori, S., Tago, K., Ohbayashi, T., Hara, S. & Uchida, Y. (2025)\
+"Differential responses of soil ammonia-oxidizing bacterial and archaeal communities to land-use changes in Zambia" <a href="https://doi.org/10.1264/jsme2.ME24049" target="_blank"><br>*Microbes and Environments*, 40(1), ME24049</a>
+</li>
 
-3.  **Ohigashi, T.**\*, Mori, S., Tago, K., Ohbayashi, T., Hara, S. & Uchida, Y. (2025)\
-    "Differential responses of soil ammonia-oxidizing bacterial and archaeal communities to land-use changes in Zambia" <a href="https://doi.org/10.1264/jsme2.ME24049" target="_blank"><br>*Microbes and Environments*, 40(1), ME24049</a>
+<br>
 
-### 2024
+<h3>2024</h3>
 
-2.  Soe, N. C., Yohannes, Y. B., **Ohigashi, T.**, Nakata, H., Tatsumi, C., Uchida, Y., Mufalo, W., Ito, M., Sato, T., Igarashi, T., Ikenaka, Y., Ishizuka, M., & Nakayama, S. M. M.\* (2024)\
-    "Effect of chicken manure amendment on lead burden in mice: Exposure to lead-spiked soil" <a href="https://doi.org/10.1007/s11368-024-03769-y" target="_blank"><br>*Journal of Soils and Sediments*, 24(5), 2001–2011</a>
+<li>Soe, N. C., Yohannes, Y. B., **Ohigashi, T.**, Nakata, H., Tatsumi, C., Uchida, Y., Mufalo, W., Ito, M., Sato, T., Igarashi, T., Ikenaka, Y., Ishizuka, M., & Nakayama, S. M. M.\* (2024)\
+"Effect of chicken manure amendment on lead burden in mice: Exposure to lead-spiked soil" <a href="https://doi.org/10.1007/s11368-024-03769-y" target="_blank"><br>*Journal of Soils and Sediments*, 24(5), 2001–2011</a>
+</li>
 
-### 2021
+<br>
 
-1.  **Ohigashi, T.**, Schloter, M., Schulz, S., Munthali, K., & Uchida, Y.\* (2021)\
-    "Changes in soil prokaryotic diversity in response to land-use changes in sub-Saharan Africa" <a href="https://doi.org/10.3390/soilsystems5040062" target="_blank"><br>*Soil Systems*, 5(4), 62</a>
+<h3>2021</h3>
+
+<li>**Ohigashi, T.**, Schloter, M., Schulz, S., Munthali, K., & Uchida, Y.\* (2021)\
+"Changes in soil prokaryotic diversity in response to land-use changes in sub-Saharan Africa" <a href="https://doi.org/10.3390/soilsystems5040062" target="_blank"><br>*Soil Systems*, 5(4), 62</a>
+</li>
+</ol>
