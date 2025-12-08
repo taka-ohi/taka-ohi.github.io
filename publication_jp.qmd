@@ -11,8 +11,11 @@ format:
 <ul>
 
 <li>Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J. P. & Zhang, X.\
-    "Global role of vanadium for nitrogen fixation in extratropical forests"<a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank"><br>*Authorea*</a>
-</li>
+"Global role of vanadium for nitrogen fixation in extratropical forests"<a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Preprint-Authorea-red.svg"/></a></li>
+<br>
+<li>Kisero, R. O., Tsuji, S., **Ohigashi, T.**, Porter, L., Matrai, E., Ushio, M\*\
+"Detection of environmental DNA of the Indo-Pacific humpback dolphins in Hong Kong waters using quantitative PCR"<a href="https://doi.org/10.1101/2025.10.30.685690" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg"/></a></li>
+
 </ul>
 
 <br>
@@ -21,7 +24,7 @@ format:
 <ol reversed>
 <h3>2025</h3>
 
-<li>**Ohigashi, T.**\*, Madegwa, Y. M., Karuku, G. N., Njira, K. & Uchida, Y. (*in press*)\
+<li>**Ohigashi, T.**\*, Madegwa, Y. M., Karuku, G. N., Njira, K. & Uchida, Y. (2025)\
 "Agricultural land use induces broader homogenization of soil microbial functional composition than taxonomic composition in sub-Saharan Africa"<a href="https://doi.org/10.1016/j.soilbio.2025.109895" target="_blank"><br>*Soil Biology and Biochemistry*, 209, 109895</a><a href="https://doi.org/10.1101/2025.02.17.638669" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg"/></a> <a href="https://github.com/taka-ohi/KenyaMalawi_microbiome" target="_blank" style="text-decoration: none;"><br><img src="https://img.shields.io/badge/Code-GitHub-blueviolet.svg"/></a>
 </li>
 <br>
