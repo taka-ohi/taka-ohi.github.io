@@ -2,3 +2,49 @@ h1.title {
     color: var(--bs-primary);
     text-align: center;
 }
+
+/* style for the entire list */
+ul, ol {
+    padding-left: 20px;
+}
+
+/* style for publication list */
+.publication-list li {
+    margin-bottom: 20px; /* margin for papers */
+    line-height: 1.6;    /* line height */
+}
+
+/* style for link and badges */
+.pub-links {
+    display: block;      /* change line for the paper's link */
+    margin-top: 4px;     /* margin with title */
+}
+
+.pub-links a {
+    margin-right: 6px;   /* margins between link and badges */
+}
+
+/* link underline */
+.journal-link {
+    text-decoration: underline;
+}
+
+/* margin for year */
+h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee; /* line under years */
+}
+
+/* section header */
+h2 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #333; /* border line */
+    padding-bottom: 5px;
+}
+
+/* adjust h2 (Preprint) */
+h1 + h2 {
+    margin-top: 20px;
+}
