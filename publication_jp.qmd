@@ -21,7 +21,7 @@ format:
 
 <h3>2026</h3>
 
-<li>Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J-P. & Zhang, X. (*Accepted*) "Global role of vanadium for cryptogamic nitrogen fixation in extratropical forests" [ <a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Preprint-Authorea-red.svg" style="vertical-align: middle;"/> </a> ]{.pub-links}</li>
+<li>Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J-P. & Zhang, X. (*Accepted*) "Global role of vanadium for cryptogamic nitrogen fixation in extratropical forests" [ <a ><i>Environmental Science & Technology</i></a><a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Preprint-Authorea-red.svg" style="vertical-align: middle;"/> </a> ]{.pub-links}</li>
 
   <h3>2025</h3>
   <li>
