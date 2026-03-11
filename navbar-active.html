@@ -1,0 +1,60 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const path = window.location.pathname.replace(/\/+$/, "");
+
+  const leftNavLinks = Array.from(
+    document.querySelectorAll(".navbar-nav.me-auto .nav-link")
+  );
+  const rightNavLinks = Array.from(
+    document.querySelectorAll(".navbar-nav.ms-auto .nav-link")
+  );
+
+  const clearActiveState = () => {
+    leftNavLinks.forEach((link) => {
+      link.classList.remove("active");
+      link.removeAttribute("aria-current");
+    });
+  };
+
+  const setActiveByLabel = (label) => {
+    const target = leftNavLinks.find(
+      (link) => link.textContent.trim() === label
+    );
+
+    if (!target) return;
+
+    clearActiveState();
+    target.classList.add("active");
+    target.setAttribute("aria-current", "page");
+  };
+
+  const setLanguageHref = (label, href) => {
+    const target = rightNavLinks.find(
+      (link) => link.textContent.trim() === label
+    );
+
+    if (!target) return;
+
+    target.setAttribute("href", href);
+  };
+
+  if (path.endsWith("/jp/index.html") || path.endsWith("/jp/")) {
+    setActiveByLabel("Home");
+    setLanguageHref("EN", "../index.html");
+    setLanguageHref("日本語", "index.html");
+  } else if (path.endsWith("/jp/publication.html")) {
+    setActiveByLabel("Publication");
+    setLanguageHref("EN", "../publication.html");
+    setLanguageHref("日本語", "publication.html");
+  } else if (path.endsWith("/jp/links.html")) {
+    setLanguageHref("EN", "../index.html");
+    setLanguageHref("日本語", "index.html");
+  } else if (path.endsWith("/publication.html")) {
+    setLanguageHref("EN", "publication.html");
+    setLanguageHref("日本語", "jp/publication.html");
+  } else {
+    setLanguageHref("EN", "index.html");
+    setLanguageHref("日本語", "jp/index.html");
+  }
+});
+</script>

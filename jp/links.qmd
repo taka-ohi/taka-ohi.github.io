@@ -2,7 +2,7 @@
 title: "生態学・執筆関係リンク集"
 format:
   html:
-    css: my-custom-style2.css
+    css: ../my-custom-style2.css
 ---
 
 ::: {style="text-align: center;"}

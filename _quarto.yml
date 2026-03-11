@@ -13,21 +13,13 @@ website:
         href: index.qmd
       - text: "Publication"
         href: publication.qmd
-      - text: "Japanese (日本語)"
-        menu:
-          - text: "自己紹介"
-            href: index_jp.qmd
-          - text: "発表した論文など"
-            href: publication_jp.qmd
-          - text: "リンク集"
-            href: link_jp.qmd
-  # right:
-  #   - href: index.qmd
-  #     text: "English"
-  #     icon: globe
-  #   - href: index_jp.qmd
-  #     text: "日本語"
-  #     icon: globe
+      - text: "Links (Japanese)"
+        href: jp/links.qmd
+    right:
+      - text: "EN"
+        href: index.qmd
+      - text: "日本語"
+        href: jp/index.qmd
     page-navigation: true
   page-footer: 
     right: "Copyright 2025, Takamitsu Ohigashi"
@@ -37,5 +29,5 @@ format:
   html:
     theme: minty
     css: styles.css
+    include-after-body: navbar-active.html
     toc: true
-
