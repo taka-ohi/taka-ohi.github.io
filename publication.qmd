@@ -11,7 +11,7 @@ format:
 
 <ul class="publication-list">
 
-<li>**Ohigashi, T.**\*, Masuda, R. & Ushio, M.\* (2026) "Population-level, state-dependent response as a trait predicting species redistribution under climate change" [ <a href="https://doi.org/10.64898/2026.02.16.706069" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg" style="vertical-align: middle;"/> </a> ]{.pub-links}</li>
+<li>**Ohigashi, T.**\*, Masuda, R. & Ushio, M.\* (2026) "Population-level, state-dependent response as a trait predicting species redistribution under climate change" [ <a href="https://doi.org/10.64898/2026.02.16.706069" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg" style="vertical-align: middle;"/> </a> <a href="https://github.com/taka-ohi/DynaResp_Maizuru_Fish" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Code-GitHub-blueviolet.svg" style="vertical-align: middle;"/></a>]{.pub-links}</li>
 
 <li>Kisero, R. O., Tsuji, S., **Ohigashi, T.**, Porter, L., Matrai, E., & Ushio, M.\* (2025) "Detection of environmental DNA of the Indo-Pacific humpback dolphins in Hong Kong waters using quantitative PCR" [ <a href="https://doi.org/10.1101/2025.10.30.685690" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Preprint-bioRxiv-red.svg" style="vertical-align: middle;"/> </a> ]{.pub-links}</li>
 
@@ -23,7 +23,10 @@ format:
 
 <h3>2026</h3>
 
-<li>Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J-P. & Zhang, X. (*Accepted*) "Global role of vanadium for cryptogamic nitrogen fixation in extratropical forests" [ <a ><i>Environmental Science & Technology</i></a> <a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Preprint-Authorea-red.svg" style="vertical-align: middle;"/> </a> ]{.pub-links}</li>
+<li>Darnajoux, R.†\*, Haynes, S., Renaudin, M.†, Magain, N., Dani, S., Koonin, S., Miadlikowska, J., Uchida, Y., **Ohigashi, T.**, Haughland, D., Lutzoni, F., Bellenger, J-P. & Zhang, X. (2026) "Global role of vanadium for cryptogamic nitrogen fixation in extratropical forests" <span class="pub-links">
+      <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c12982" target="_blank" class="journal-link"><i>Environmental Science & Technology</i>, *in press*</a>
+      <a href="https://doi.org/10.22541/au.172463318.84381995/v1" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Preprint-Authorea-red.svg" style="vertical-align: middle;"/></a>
+    </span></li>
 
 <h3>2025</h3>
 
