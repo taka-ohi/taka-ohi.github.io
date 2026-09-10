@@ -16,7 +16,7 @@ website:
       - text: "Links (Japanese)"
         href: jp/links.qmd
     right:
-      - text: "EN"
+      - text: "English"
         href: index.qmd
       - text: "日本語"
         href: jp/index.qmd
