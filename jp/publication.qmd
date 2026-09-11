@@ -21,7 +21,7 @@ format:
 
 <h3>2026</h3>
 
-<li>**Ohigashi, T.**, Yoo, K., Uchida, Y., & Ishii, S. (*accepted*) "Earthworm invasion is associated with reduced soil nitrification potential and a decline of active nitrifiers identified by DNA-stable isotope probing" <span class="pub-links">
+<li>**Ohigashi, T.**\*, Yoo, K., Uchida, Y., & Ishii, S. (*accepted*) "Earthworm invasion is associated with reduced soil nitrification potential and a decline of active nitrifiers identified by DNA-stable isotope probing" <span class="pub-links">
       <span class="journal-link"><i>Geoderma</i>, <i>TBD</i></span>
     </span></li>
 
